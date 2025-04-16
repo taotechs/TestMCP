@@ -72,8 +72,8 @@ def simulate_patient_monitoring(duration_minutes=10, interval_seconds=30):
         print("\nSimulation stopped by user")
 
 def main():
-    # Run simulation for 10 minutes with 30-second intervals
-    simulate_patient_monitoring(duration_minutes=10, interval_seconds=30)
+    # Run simulation for 2 minutes with 30-second intervals
+    simulate_patient_monitoring(duration_minutes=2, interval_seconds=30)
 
 if __name__ == "__main__":
     main()
