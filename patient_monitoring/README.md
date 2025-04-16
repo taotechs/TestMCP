@@ -1,4 +1,4 @@
-.py# Patient Monitoring System
+# Patient Monitoring System
 
 This project demonstrates the Model Context Protocol (MCP) pattern in a healthcare setting. The system monitors patient vital signs and generates alerts when readings are outside normal ranges.
 
